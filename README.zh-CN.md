@@ -10,15 +10,14 @@
 
 | 工具 | 简介 | 指南 |
 | --- | --- | --- |
-| **Claude Code** | 运行在终端内的 AI 编程助手。 | [English](./docs/claude_code.md) · [简体中文](./docs/claude_code.zh-CN.md) |
-| **OpenCode** | 开源 AI 编程助手，提供终端、网页等多种运行形式。 | [English](./docs/opencode.md) · [简体中文](./docs/opencode.zh-CN.md) |
-| **OpenClaw** | 开源个人 AI 助手，可接入飞书、微信等聊天工具，并通过 Skill 扩展能力。 | [English](./docs/openclaw.md) · [简体中文](./docs/openclaw.zh-CN.md) |
+| **Claude Code** | 运行在终端内的 AI 编程助手。 | [指南](./docs/claude_code.zh-CN.md) |
+| **OpenCode** | 开源 AI 编程助手，提供终端、网页等多种运行形式。 | [指南](./docs/opencode.zh-CN.md) |
+| **OpenClaw** | 开源个人 AI 助手，可接入飞书、微信等聊天工具，并通过 Skill 扩展能力。 | [指南](./docs/openclaw.zh-CN.md) |
 
 ## 相关资源
 
 - [DeepSeek 开放平台](https://platform.deepseek.com/) — 获取 API Key。
 - [DeepSeek API 文档](https://api-docs.deepseek.com/) — API 参考与使用指南。
-- [DeepSeek Anthropic API](https://api.deepseek.com/anthropic) — Claude Code 所使用的 Anthropic 兼容接口。
 
 ## 参与贡献
 

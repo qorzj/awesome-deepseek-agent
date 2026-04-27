@@ -10,15 +10,14 @@ Each guide walks through installation, configuration, and first run — so you c
 
 | Tool | Description | Guide |
 | --- | --- | --- |
-| **Claude Code** | AI coding assistant that runs in the terminal. | [English](./docs/claude_code.md) · [简体中文](./docs/claude_code.zh-CN.md) |
-| **OpenCode** | Open-source AI coding assistant available in terminal, web, and other forms. | [English](./docs/opencode.md) · [简体中文](./docs/opencode.zh-CN.md) |
-| **OpenClaw** | Open-source personal AI assistant that plugs into chat tools (Feishu, WeChat) and is extensible via Skills. | [English](./docs/openclaw.md) · [简体中文](./docs/openclaw.zh-CN.md) |
+| **Claude Code** | AI coding assistant that runs in the terminal. | [Guide](./docs/claude_code.md) |
+| **OpenCode** | Open-source AI coding assistant available in terminal, web, and other forms. | [Guide](./docs/opencode.md) |
+| **OpenClaw** | Open-source personal AI assistant that plugs into chat tools (Feishu, WeChat) and is extensible via Skills. | [Guide](./docs/openclaw.md) |
 
 ## Resources
 
 - [DeepSeek Platform](https://platform.deepseek.com/) — get an API key.
 - [DeepSeek API Docs](https://api-docs.deepseek.com/) — API reference and guides.
-- [DeepSeek Anthropic API](https://api.deepseek.com/anthropic) — Anthropic-compatible endpoint used by Claude Code.
 
 ## Contributing
 
