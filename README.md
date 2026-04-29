@@ -1,3 +1,5 @@
+<div align="center">
+
 # Awesome DeepSeek Agent
 
 [English](./README.md) | [简体中文](./README.zh-CN.md)
@@ -6,13 +8,21 @@ A curated list of guides for integrating **DeepSeek** models into popular AI age
 
 Each guide walks through installation, configuration, and first run — so you can start using DeepSeek-V4-Pro or DeepSeek-V4-Flash inside your favorite tool in a few minutes.
 
+</div>
+
+
 ## Contents
 
-| Tool | Description | Guide |
-| --- | --- | --- |
-| **Claude Code** | AI coding assistant that runs in the terminal. | [Guide](./docs/claude_code.md) |
-| **OpenCode** | Open-source AI coding assistant available in terminal, web, and other forms. | [Guide](./docs/opencode.md) |
-| **OpenClaw** | Open-source personal AI assistant that plugs into chat tools (Feishu, WeChat) and is extensible via Skills. | [Guide](./docs/openclaw.md) |
+| Tool            | Description                                                                                                 | Guide                          |
+| --------------- | ----------------------------------------------------------------------------------------------------------- | ------------------------------ |
+| **Claude Code** | AI coding assistant that runs in the terminal.                                                              | [Guide](./docs/claude_code.md) |
+| **GitHub Copilot** | AI peer programmer built into VS Code. | [Guide](./docs/github_copilot.md) |
+| **Kilo Code** | AI coding assistant available as a CLI and editor extension. | [Guide](./docs/kilo_code.md) |
+| **OpenCode**    | Open-source AI coding assistant available in terminal, web, and other forms.                                | [Guide](./docs/opencode.md)    |
+| **OpenClaw**    | Open-source personal AI assistant that plugs into chat tools (Feishu, WeChat) and is extensible via Skills. | [Guide](./docs/openclaw.md)    |
+| **AstrBot**     | Open-source agent assistant for Feishu, Telegram and more, extensible with skills, plugins, and MCPs.       | [Guide](./docs/astrbot.md)     |
+| **Hermes**      | Open-source self-improving AI agent built by Nous Research.                                                 | [Guide](./docs/hermes.md)      |
+| **Reasonix**    | DeepSeek-native coding agent that runs in the terminal — cache-first loop, MCP-native.                      | [Guide](./docs/reasonix.md)    |
 
 ## Resources
 
